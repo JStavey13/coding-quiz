@@ -3,3 +3,9 @@ body {
     text-align: center;
     
 }
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+  }
