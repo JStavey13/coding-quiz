@@ -9,3 +9,13 @@ header ul {
     justify-content: space-between;
     color: blue;
   }
+
+  li {
+    text-decoration: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  
